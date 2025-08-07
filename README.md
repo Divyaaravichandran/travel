@@ -1,1 +1,1 @@
-# travel-blog
+Travel Blogging Platform
